@@ -19,7 +19,7 @@ if (string.toLowerCase(string)===string){
 }
 else if (string.toUpperCase(string)=== string) {
   return loudVoice;
-} 
+}
 else if (`I love you, Grandma.` === string){
   return sweetReply;
 }
